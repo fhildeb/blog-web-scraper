@@ -4,11 +4,15 @@ Blog Web Scraper built by Felix Hildebrandt as final thesis for Web Analytics in
 
 > **_NOTE:_** The commentary and files might appear in German.
 
+## Default Blog
+
+By default, the web scraper is adapted to the blog of
+[Kuechenchaotin](https://kuechenchaotin.de/), a known German Food and Travel webpage. On demand, it could be customized for any other domain.
+
 ## Windows GUI
 
 ![Screenshot Startup](./img/scraper_01.png)
 ![Screenshot Scraping](./img/scraper_02.png)
-![Screenshot Finalized](./img/scraper_03.png)
 
 
 ## Tools
