@@ -1,4 +1,4 @@
-# web-scraper
+# blog-web-scraper
 
 Blog Web Scraper built by Felix Hildebrandt as final thesis for Web Analytics in 2019. The fetched data was further analysed by Lukas Brueggemann as an extended group project.
 
