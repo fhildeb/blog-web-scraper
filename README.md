@@ -7,8 +7,8 @@ Blog Web Scraper built by Felix Hildebrandt as final thesis for Web Analytics in
 ## Windows GUI
 
 ![Screenshot Startup](./img/scraper_01.png)
-![Screenshot Scraping](./img/scraper_01.png)
-![Screenshot Finalized](./img/scraper_01.png)
+![Screenshot Scraping](./img/scraper_02.png)
+![Screenshot Finalized](./img/scraper_03.png)
 
 
 ## Tools
