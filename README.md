@@ -54,6 +54,10 @@ Further, external sources like [SimilarWeb](https://www.similarweb.com/de/) can 
 - Browsing Categories
 - Total Visits
 
+## Contributors
+
+- Lukas Brueggemann
+
 ## Tools
 
 - [Auto Py to Exe](https://pypi.org/project/auto-py-to-exe/)
