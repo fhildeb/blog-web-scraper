@@ -43,3 +43,9 @@ The visitors are mainly from Germany, which was to be expected for a German food
 ![Referring Traffic](/img/metrics/sample_analytics_15.png)
 
 The blog is mainly aimed at search queries on "Food and Drink."" Competing blogs include [kochbar.de](https://www.kochbar.de/) and [eatsmarter.de](https://eatsmarter.de/), both of which rely on SEO optimization and cooperation as well as AdSense. This blog does not use both commercial ways, which is why there is a big difference in the ranking. With a search overlap of almost 45% to our sample site, the blog [kochbar.de](https://www.kochbar.de/) has a global rank of about 8,300. The sample blig is approximately in position 540,000 of international websites. Here the enormous advantage of paid advertising becomes visible.
+
+## Total Visits
+
+![Referring Traffic](/img/metrics/sample_analytics_16.png)
+
+With search queries, social media, and direct views, the page owner has around 35,000 to 75,000 views on her site. Of these, about 10% are from social media and 40% from search queries. Direct views (e.g., RSS feed) are also a significant portion of over 50%. Crucially, almost 80% of the views are from cell phones. The website design is designed with this in mind. In November 2019, the landing page of their website was also adapted and now shows the current article as a large cover image with an appetizer. Perfectly adjusted for the seemless mobile view.
