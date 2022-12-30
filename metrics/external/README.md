@@ -25,3 +25,9 @@ The pages visited per session are also typical for a blog post. However, new vis
 ![Referring Traffic](/img/metrics/sample_analytics_12.png)
 
 The bounce rate is also typically high for a blog post. It refers to the percentage of callers who generate only a single page view on the pages. In organic search, recipes are usually suggested directly. Accordingly, visitors only read posts related to the searched recipe (91%). The values of social media (78%) and direct searches (69%) are also very high, but to be expected with a blog. After all, another 28% look around the page on average before leaving the homepage.
+
+## Demographics
+
+![Referring Traffic](/img/metrics/sample_analytics_13.png)
+
+The main visitors of the blog are women at the age of 25 to 34. This age group takes up more than a quarter of the views. Nevertheless, it can be said that the topic "Food & Travel" is aimed at all age groups and also sets new trends among the younger generation. Due to the high traffic through Instagram and Pinterest, many people have become aware of the site.
