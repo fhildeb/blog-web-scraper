@@ -17,3 +17,13 @@ The majority of posts are in the 0-25 comment range. If we look at the number of
 ![Comment Frequency](/img/metrics/sample_analytics_3.png)
 
 Especially one post from Nov. 20, 2014, stands out with 320 comments. When looking at the post, it also becomes clear why: it was a raffle announced via social media channels. This can also be seen in other posts with an above-average number of comments.
+
+## Interaction Trendline
+
+![Interaction Trendline](/img/metrics/sample_analytics_4.png)
+
+The number of comments dropped sharply after January 2018. When we clean the data, it becomes clear how the blog and interaction are evolving. This can also be inferred from the declining blog posts.
+
+![Blogpost Trendline](/img/metrics/sample_analytics_5.png)
+
+The author has created an active and interactive blog over the years, but lately, the number of posts has decreased significantly, as you can see well in the number of blogs and comments.
