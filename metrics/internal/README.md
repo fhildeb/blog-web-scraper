@@ -33,3 +33,9 @@ The author has created an active and interactive blog over the years, but lately
 ![Publication Date Measures](/img/metrics/sample_analytics_6.png)
 
 The blog posts are written very irregularly. Monday, Wednesday, and Friday stand out clearly, but there is currently no structure. The reason for this is possibly the "wedding" in the management of the blog until 2015, in which she often wrote posts every other weekday.
+
+## External Link Extraction
+
+![External Link Extraction](/img/metrics/sample_analytics_7.png)
+
+The external links confirm that she works on her blog very much via affiliate links from Amazon. This is followed by a link to the blog [Kochhelden](https://www.kochhelden.tv/), run by her partner Jens Glatz. Together, the two own Glatz Media GmbH, a joint media company specializing in marketing social media as well as photo and video productions in the area of nutrition and recipes. Of course, both often link to each other, as they work in the same environment and support each other. Connecting to the social media channels and advertising partners is just as often. With Edeka and Galeria-Kaufhof, she links to grocery chains. Viewing the total number, however, she connects most blogs from the same subject area- forming a stronger interest bubble.
