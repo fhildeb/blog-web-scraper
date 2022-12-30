@@ -46,3 +46,24 @@ According to the blog's statements, the following things are not used:
 - Non-traditional sales
 
 In her blog section, where the owner talks about the willingness to collaborate, she also sets conditions and boundaries. Collaborations are all meant to support her principle of "maintaining authenticity." If she doesn't find a fair use for the blog or can't identify with the collaboration, it doesn't happen. She includes a link to her books on every page, representing the point of "selling products" in the target hierarchy. So this turnover comes only indirectly through the blog.
+
+## Social Media Communities
+
+The following metrics are referenced on the blog itself, not actual metrics that are calculated within the `./internal` folder.
+
+![Social Media Metrics](/img/metrics/sample_analytics_1.png)
+
+The author-post metric is evaluated to evaluate if the blog is purposefully run. According to the blog owner's information, she has 535 self-published articles, which provides a rough overview. In the meantime, the blog could grow to over 600 posts. Reader growth is another fundamental building block. The blog references monthly 230,000-page impressions and 166,000 visitors. However, as seen in the internal metrics chapter, that these values have decreased sharply.
+
+The conversation rate is one index of how well interaction and creating posts drive traffic. For their stated 535 posts, there are 5600 comments. So this translates to a conversation rate of 10.47 comments per post, which is also higher than the calculated values in the timeframe.
+
+## Communication Pillars
+
+Roughly, a social media strategy can be divided into the following 4 pillars:
+
+- Goals: What does the blog want to achieve?
+- Target: Interacting with the appropriate audience.
+- Cannel Selection: Align and distribute interaction on different pages.
+- Process Management: Whats necessary? Date, process, type of contribution.
+
+In the next chapter, we will examinate how well they were set up.
