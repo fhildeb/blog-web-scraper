@@ -27,6 +27,8 @@ As stated, the tool can be used to measure value, sucess and outcome of differen
 - Blog Value
 - Applied Business Models
 - Social Media Communities
+- Communication Pillars
+- Alignment and Media Design
 
 ### Internal Metrics
 
