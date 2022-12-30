@@ -10,30 +10,36 @@ The social media traffic evaluation shows that their Pinterest page is the most 
 
 ## Search Visits
 
-![Referring Traffic](/img/metrics/sample_analytics_10.png)
+![Search Visits](/img/metrics/sample_analytics_10.png)
 
 Every month, the blog receives around 25,000 visitors from only organic search queries, i.e., do not come from advertisements. The search-visit analysis also shows that there are no paid advertising campaigns for the sample site, and thus, all traffic comes from organic search queries. This is consistent with their statements on their blog.
 
 ## Search Engagement
 
-![Referring Traffic](/img/metrics/sample_analytics_11.png)
+![Search Engagement](/img/metrics/sample_analytics_11.png)
 
 The pages visited per session are also typical for a blog post. However, new visitors looking for a specific recipe usually don't browse for other categories or recipes. Their subscribers typically arrive at the blog via the RSS feed and only read through the current post without reading any other posts since they have already read about them in advance. Very few people browse directly through the "cluttered blog." Browsing is mainly done on social media such as Instagram and Pinterest, on which it has exceptionally high density of pictures. There, all dishes are displayed in a compact view.
 
 ## Channel Analytics
 
-![Referring Traffic](/img/metrics/sample_analytics_12.png)
+![Channel Analytics](/img/metrics/sample_analytics_12.png)
 
 The bounce rate is also typically high for a blog post. It refers to the percentage of callers who generate only a single page view on the pages. In organic search, recipes are usually suggested directly. Accordingly, visitors only read posts related to the searched recipe (91%). The values of social media (78%) and direct searches (69%) are also very high, but to be expected with a blog. After all, another 28% look around the page on average before leaving the homepage.
 
 ## Demographics
 
-![Referring Traffic](/img/metrics/sample_analytics_13.png)
+![Demographics](/img/metrics/sample_analytics_13.png)
 
 The main visitors of the blog are women at the age of 25 to 34. This age group takes up more than a quarter of the views. Nevertheless, it can be said that the topic "Food & Travel" is aimed at all age groups and also sets new trends among the younger generation. Due to the high traffic through Instagram and Pinterest, many people have become aware of the site.
 
-## Traffic Share
+## Geographics
 
-![Referring Traffic](/img/metrics/sample_analytics_14.png)
+![Geographics](/img/metrics/sample_analytics_14.png)
 
 The visitors are mainly from Germany, which was to be expected for a German food blog. Calls in other languages will probably be through Pinterest since there is no language barrier, only photos.
+
+## Browsing Categories
+
+![Referring Traffic](/img/metrics/sample_analytics_15.png)
+
+The blog is mainly aimed at search queries on "Food and Drink."" Competing blogs include [kochbar.de](https://www.kochbar.de/) and [eatsmarter.de](https://eatsmarter.de/), both of which rely on SEO optimization and cooperation as well as AdSense. This blog does not use both commercial ways, which is why there is a big difference in the ranking. With a search overlap of almost 45% to our sample site, the blog [kochbar.de](https://www.kochbar.de/) has a global rank of about 8,300. The sample blig is approximately in position 540,000 of international websites. Here the enormous advantage of paid advertising becomes visible.

@@ -50,7 +50,7 @@ Further, external sources like [SimilarWeb](https://www.similarweb.com/de/) can 
 - Search Engagement
 - Channel Analytics
 - Demographics
-- Traffic Share
+- Geographics
 - Browsing Categories
 - Total Visits
 
