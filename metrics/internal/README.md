@@ -27,3 +27,9 @@ The number of comments dropped sharply after January 2018. When we clean the dat
 ![Blogpost Trendline](/img/metrics/sample_analytics_5.png)
 
 The author has created an active and interactive blog over the years, but lately, the number of posts has decreased significantly, as you can see well in the number of blogs and comments.
+
+## Publication Date Measures
+
+![Publication Date Measures](/img/metrics/sample_analytics_6.png)
+
+The blog posts are written very irregularly. Monday, Wednesday, and Friday stand out clearly, but there is currently no structure. The reason for this is possibly the "wedding" in the management of the blog until 2015, in which she often wrote posts every other weekday.

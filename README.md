@@ -37,7 +37,7 @@ Based on the sample data with over `600 posts`, there can be done various predic
 - Comment Count Predictions
 - Comment Frequency
 - Interaction Trendline
-- Post Date Measures
+- Publication Date Measures
 - External Link Extraction
 - Post Category Analysis
 
