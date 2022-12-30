@@ -62,3 +62,4 @@ Further, external sources like [SimilarWeb](https://www.similarweb.com/de/) can 
 - [SimilarWeb](https://www.similarweb.com/de/)
 - [WEBUKA](https://www.webuka.com/)
 - [WebsiteOutlook](https://www.websiteoutlook.com/)
+- [WorthOfWeb](https://www.worthofweb.com/)
