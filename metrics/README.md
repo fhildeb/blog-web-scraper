@@ -79,3 +79,11 @@ Twitter and Instagram are particularly well suited for interaction. There, the o
 In addition, she shares very personal things from her daily life on Twitter. Here you can also find content that has nothing in common with your blog. This is the perfect place for long-term supporters who don't want to miss anything from her. Political statements, family or everyday content, comments on friends' posts, or situations from TV or travel can be found here.
 
 To all appearances, all process steps are carried out by her herself. She does not have considerable effort for her social media posts because, outside of Twitter, she only reuses material she has already worked out. Only the photos with a link to the blog and a short description are mainly spread.
+
+## Internal Metrics
+
+Can be found under `./internal`
+
+## External Metrics
+
+Can be found under `./external`
