@@ -67,3 +67,15 @@ Roughly, a social media strategy can be divided into the following 4 pillars:
 - Process Management: Whats necessary? Date, process, type of contribution.
 
 In the next chapter, we will examinate how well they were set up.
+
+## Alignment and Media Design
+
+The blog, with its social media strategy, has the goals of "more reach," "attract new readers," and "connect with their readers." The owner reposts all links to her blog posts in the appropriate format, on the respective social media platforms Twitter, Facebook, Instagram, and Bloglovin. Thus, new readers looking for cooking tips can find them better and build a conversation directly, following the "Spread the Word principle." Through the blog theme of "Food and Travel," she also clearly defines her target audience. People who love to cook and are looking for cooking tips or travel inspiration.
+
+On Pinterest, there are images for all the posts on her site. Thus, people who only research photos about food for inspiration will also become aware of their recipes. People may find their way to their page just because of the visuals and might read recipes later. The significant advantage here is that instead of clicking through over 60 pages of lists about recipes and travelogues that have already been written, in Pinterest, you only find the stringing together of photos for the matching post. Instagram also pursues a similar goal in terms of responsiveness. On top, both are not restrictive in language, meaning photos can reach an international audience to come visit the site for once.
+
+Twitter and Instagram are particularly well suited for interaction. There, the owner shows herself as the person behind the blog. She strengthens the personal bond between herself and her followers by talking about unique things in comments without bringing them into a direct connection with the interaction on the blog. However, the exchange is exceptionally high.
+
+In addition, she shares very personal things from her daily life on Twitter. Here you can also find content that has nothing in common with your blog. This is the perfect place for long-term supporters who don't want to miss anything from her. Political statements, family or everyday content, comments on friends' posts, or situations from TV or travel can be found here.
+
+To all appearances, all process steps are carried out by her herself. She does not have considerable effort for her social media posts because, outside of Twitter, she only reuses material she has already worked out. Only the photos with a link to the blog and a short description are mainly spread.
