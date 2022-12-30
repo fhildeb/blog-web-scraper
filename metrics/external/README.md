@@ -31,3 +31,9 @@ The bounce rate is also typically high for a blog post. It refers to the percent
 ![Referring Traffic](/img/metrics/sample_analytics_13.png)
 
 The main visitors of the blog are women at the age of 25 to 34. This age group takes up more than a quarter of the views. Nevertheless, it can be said that the topic "Food & Travel" is aimed at all age groups and also sets new trends among the younger generation. Due to the high traffic through Instagram and Pinterest, many people have become aware of the site.
+
+## Traffic Share
+
+![Referring Traffic](/img/metrics/sample_analytics_14.png)
+
+The visitors are mainly from Germany, which was to be expected for a German food blog. Calls in other languages will probably be through Pinterest since there is no language barrier, only photos.
