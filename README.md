@@ -15,7 +15,11 @@ By default, the web scraper is adapted to the blog of [Kuechenchaotin](https://k
 
 ## Analytics
 
-> The extended analysis based on the sample blog can be found within the `/metrics` folder. The structure is similar to this table of contents in the main description file.
+> The extended analysis based on the sample blog can be found within the `/metrics` folder of this repository. The structure is similar to this table of contents in the main description file and includes subfolders for internal and external analytics.
+
+1. [Link to General Metrics Documentation](/metrics/)
+2. [Link to Internal Metrics Analysis](/metrics/internal/)
+3. [Link to External Metrics Analysis](/metrics/external/)
 
 ### General Metrics
 
@@ -43,7 +47,7 @@ Based on the sample data with over `600 posts`, there can be done various predic
 
 ### External Metrics
 
-Further, external sources like [SimilarWeb](https://www.similarweb.com/de/) can be used to combine internal and external metrics with traffic and search data from social media listings or referrals:
+Further, external sources like [SimilarWeb](https://www.similarweb.com/de/) was used to combine internal and external metrics with traffic and search data from social media listings or referrals:
 
 - Referring Traffic
 - Search Visits
