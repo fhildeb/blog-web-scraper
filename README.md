@@ -2,7 +2,7 @@
 
 Blog Web Scraper built by Felix Hildebrandt as final thesis for Web Analytics in 2019. The fetched data was further analysed by Lukas Brueggemann as an extended group project for a Big Data science course.
 
-> **_NOTE:_** Commentary and files might appear in German.
+> **_NOTE:_** Code Commentary appears in German.
 
 ## Default Blog
 
